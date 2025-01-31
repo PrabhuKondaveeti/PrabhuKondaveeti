@@ -1,7 +1,6 @@
 # 💫 About Me:
 👋 Hi, I’m Prabhu Kiran Kondaveeti<br>👀 I’m interested in Test Automation<br>🌱 I’m currently learning Python<br>💞️ I’m looking to collaborate on Test Automation, Software Testing<br>📫 How to reach me : Prabhukiran278@gmail.com
 
-# 👋 Hi, I'm Prabhu Kiran Kondaveeti
 
 ## 🚀 Summary  
 Diligent **QA Engineer** with **9+ years of experience** in **automation and manual testing**, specializing in **mobile and web applications**. I excel in **designing robust test automation frameworks**, enhancing software quality, and optimizing test execution. A **decision-maker, problem-solver, and cross-functional team leader**, I take ownership of projects and drive innovation.
