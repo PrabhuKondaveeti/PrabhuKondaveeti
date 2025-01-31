@@ -1,6 +1,30 @@
 # 💫 About Me:
 👋 Hi, I’m Prabhu Kiran Kondaveeti<br>👀 I’m interested in Test Automation<br>🌱 I’m currently learning Python<br>💞️ I’m looking to collaborate on Test Automation, Software Testing<br>📫 How to reach me : Prabhukiran278@gmail.com
 
+# 👋 Hi, I'm Prabhu Kiran Kondaveeti
+
+## 🚀 Summary  
+Diligent **QA Engineer** with **9+ years of experience** in **automation and manual testing**, specializing in **mobile and web applications**. I excel in **designing robust test automation frameworks**, enhancing software quality, and optimizing test execution. A **decision-maker, problem-solver, and cross-functional team leader**, I take ownership of projects and drive innovation.
+
+---
+
+## 🛠️ Skills & Tools  
+
+| **Category**             | **Technologies & Tools** |
+|-------------------------|-------------------------|
+| **Testing Tools**        | Appium, XCode, Selenium WebDriver, Jira, Android Studio, Eclipse, Postman, Perfecto, Rest Assured, SOAP UI, Charles Proxy, Test Rail, Lambda Test |
+| **Programming Languages** | Java, Swift, Python, HTML, CSS3, JavaScript, XML, Groovy Script |
+| **Test Frameworks**      | TestNG, Cucumber, Page Object Model (POM), Espresso, GTXilib |
+| **Databases**            | MySQL, Oracle |
+| **Other Tools**          | GitHub, SourceTree, Jenkins, Maven |
+| **Operating Systems**    | Mac OSX, Windows, Linux |
+
+---
+
+💡 **Passionate about automation, software quality, and innovation. Always eager to learn and optimize testing processes!**  
+📫 **Let's connect and collaborate!**
+
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/prabhu.kiran.1229) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prabhukondaveeti) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prabhu-kiran-kondaveeti-679831142) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@prabhuapple27) 
